@@ -1,0 +1,26 @@
+{
+	"Am-C [Pentatonic]": [
+		"A/Minor Pentatonic",
+		"C/Major Pentatonic"
+	],
+	"Em-G[Pentatonic]": [
+		"E/Minor Pentatonic",
+		"G/Major Pentatonic"
+	],
+	"Dm-F[Pentatonic]": [
+		"D/Minor Pentatonic",
+		"F/Major Pentatonic"
+	],
+	"Am-C [Blues]": [
+		"A/Blues",
+		"C/Blues"
+	],
+	"Em-G [Blues]": [
+		"E/Blues",
+		"G/Blues"
+	],
+	"Dm-F [Blues]": [
+		"D/Blues",
+		"F/Blues"
+	]
+}
