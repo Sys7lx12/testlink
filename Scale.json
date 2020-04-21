@@ -3,11 +3,11 @@
 		"A/Minor Pentatonic",
 		"C/Major Pentatonic"
 	],
-	"Em-G[Pentatonic]": [
+	"Em-G [Pentatonic]": [
 		"E/Minor Pentatonic",
 		"G/Major Pentatonic"
 	],
-	"Dm-F[Pentatonic]": [
+	"Dm-F [Pentatonic]": [
 		"D/Minor Pentatonic",
 		"F/Major Pentatonic"
 	],
@@ -17,8 +17,7 @@
 	],
 	"Em-G [Blues]": [
 		"E/Blues",
-		"G/Blues"
-	],
+		"G/Blues"],
 	"Dm-F [Blues]": [
 		"D/Blues",
 		"F/Blues"
