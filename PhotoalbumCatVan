@@ -1,10 +1,4 @@
-[
-  {
-    "Album hình": "Ảnh tuần",
-    "Link": "https://photos.app.goo.gl/PkczSAorLw1RK77b7"
-  },
-  {
-    "Album hình": "Flycam dự án",
-    "Link": "https://photos.app.goo.gl/wZGUVdPqMDBE0kkx1"
-  }
-]
+{
+  "Ảnh tuần":"https://photos.app.goo.gl/PkczSAorLw1RK77b7",
+  "Flycam dự án":"https://photos.app.goo.gl/wZGUVdPqMDBE0kkx1"
+}
