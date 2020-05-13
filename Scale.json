@@ -1,26 +1,21 @@
 {
-	"Am-C [Pentatonic]": [
+	"Scale Am-C": [
 		"A/Minor Pentatonic",
-		"A/Blues",
-		"C/Blues"
-	],
-	"Em-G [Pentatonic]": [
+		"C/Major Pentatonic",
+		"A/Blues"],
+	"Scale Em-G": [
 		"E/Minor Pentatonic",
-		"G/Major Pentatonic"
-	],
-	"Dm-F [Pentatonic]": [
+		"G/Major Pentatonic"],
+	"Scale Dm-F": [
 		"D/Minor Pentatonic",
-		"F/Major Pentatonic"
-	],
+		"F/Major Pentatonic"],
 	"Am-C [Blues]": [
 		"A/Blues",
-		"C/Blues"
-	],
+		"C/Blues"],
 	"Em-G [Blues]": [
 		"E/Blues",
 		"G/Blues"],
 	"Dm-F [Blues]": [
 		"D/Blues",
-		"F/Blues"
-	]
+		"F/Blues"]
 }
