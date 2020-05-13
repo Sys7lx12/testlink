@@ -1,21 +1,11 @@
 {
 	"Scale Am-C": [
 		"A/Minor Pentatonic",
-		"C/Major Pentatonic",
 		"A/Blues"],
 	"Scale Em-G": [
 		"E/Minor Pentatonic",
-		"G/Major Pentatonic"],
+		"G/Blues"],
 	"Scale Dm-F": [
 		"D/Minor Pentatonic",
-		"F/Major Pentatonic"],
-	"Am-C [Blues]": [
-		"A/Blues",
-		"C/Blues"],
-	"Em-G [Blues]": [
-		"E/Blues",
-		"G/Blues"],
-	"Dm-F [Blues]": [
-		"D/Blues",
 		"F/Blues"]
 }
